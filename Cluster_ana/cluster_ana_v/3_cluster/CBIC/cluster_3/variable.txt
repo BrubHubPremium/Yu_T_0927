@@ -1,0 +1,5 @@
+fs_v_ctx.lh.caudalmiddlefrontal
+fs_v_Left.Caudate
+fs_v_Left.choroid.plexus
+fs_v_Right.vessel
+fs_v_wm.rh.bankssts
